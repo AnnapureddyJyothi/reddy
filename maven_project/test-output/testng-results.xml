@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-08-28T03:22:09 PDT" name="Suite" finished-at="2021-08-28T03:24:23 PDT" duration-ms="134180">
+    <groups>
+    </groups>
+    <test started-at="2021-08-28T03:22:09 PDT" name="Test" finished-at="2021-08-28T03:24:23 PDT" duration-ms="134180">
+      <class name="shareCircle.TC_001">
+        <test-method is-config="true" signature="fff()[pri:0, instance:shareCircle.TC_001@24269709]" started-at="2021-08-28T03:22:30 PDT" name="fff" finished-at="2021-08-28T03:22:31 PDT" duration-ms="1072" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fff -->
+        <test-method signature="login()[pri:0, instance:shareCircle.TC_001@24269709]" started-at="2021-08-28T03:22:31 PDT" name="login" finished-at="2021-08-28T03:23:07 PDT" duration-ms="36078" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="cc()[pri:0, instance:shareCircle.TC_001@24269709]" started-at="2021-08-28T03:23:07 PDT" name="cc" finished-at="2021-08-28T03:23:07 PDT" duration-ms="440" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cc -->
+      </class> <!-- shareCircle.TC_001 -->
+      <class name="com_testsenarios.FB_Login2">
+        <test-method is-config="true" signature="fff()[pri:0, instance:com_testsenarios.FB_Login2@2aceadd4]" started-at="2021-08-28T03:23:07 PDT" name="fff" finished-at="2021-08-28T03:23:08 PDT" duration-ms="1031" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fff -->
+        <test-method signature="login()[pri:0, instance:com_testsenarios.FB_Login2@2aceadd4]" started-at="2021-08-28T03:23:08 PDT" name="login" finished-at="2021-08-28T03:23:14 PDT" duration-ms="6115" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="ffff()[pri:0, instance:com_testsenarios.FB_Login2@2aceadd4]" started-at="2021-08-28T03:23:14 PDT" name="ffff" finished-at="2021-08-28T03:23:15 PDT" duration-ms="328" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ffff -->
+      </class> <!-- com_testsenarios.FB_Login2 -->
+      <class name="com_testsenarios.Assign_26">
+        <test-method is-config="true" signature="fff()[pri:0, instance:com_testsenarios.Assign_26@367ffa75]" started-at="2021-08-28T03:22:09 PDT" name="fff" finished-at="2021-08-28T03:22:15 PDT" duration-ms="6094" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fff -->
+        <test-method signature="login()[pri:0, instance:com_testsenarios.Assign_26@367ffa75]" started-at="2021-08-28T03:22:15 PDT" name="login" finished-at="2021-08-28T03:22:28 PDT" duration-ms="13346" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="ffff()[pri:0, instance:com_testsenarios.Assign_26@367ffa75]" started-at="2021-08-28T03:22:28 PDT" name="ffff" finished-at="2021-08-28T03:22:30 PDT" duration-ms="1428" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ffff -->
+      </class> <!-- com_testsenarios.Assign_26 -->
+      <class name="com_testsenarios.Apple_assign25">
+        <test-method is-config="true" signature="fff()[pri:0, instance:com_testsenarios.Apple_assign25@2a5c8d3f]" started-at="2021-08-28T03:23:43 PDT" name="fff" finished-at="2021-08-28T03:23:43 PDT" duration-ms="832" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fff -->
+        <test-method signature="endToEndProsess()[pri:0, instance:com_testsenarios.Apple_assign25@2a5c8d3f]" started-at="2021-08-28T03:23:43 PDT" name="endToEndProsess" finished-at="2021-08-28T03:24:22 PDT" duration-ms="38920" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endToEndProsess -->
+        <test-method is-config="true" signature="ffff()[pri:0, instance:com_testsenarios.Apple_assign25@2a5c8d3f]" started-at="2021-08-28T03:24:22 PDT" name="ffff" finished-at="2021-08-28T03:24:23 PDT" duration-ms="462" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ffff -->
+      </class> <!-- com_testsenarios.Apple_assign25 -->
+      <class name="com_testsenarios.Classteemplete">
+        <test-method is-config="true" signature="cc()[pri:0, instance:com_testsenarios.Classteemplete@24aed80c]" started-at="2021-08-28T03:23:15 PDT" name="cc" finished-at="2021-08-28T03:23:15 PDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cc -->
+        <test-method is-config="true" signature="vv(java.lang.String)[pri:0, instance:com_testsenarios.Classteemplete@24aed80c]" started-at="2021-08-28T03:23:15 PDT" name="vv" finished-at="2021-08-28T03:23:34 PDT" duration-ms="18999" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- vv -->
+        <test-method signature="screenshot()[pri:0, instance:com_testsenarios.Classteemplete@24aed80c]" started-at="2021-08-28T03:23:34 PDT" name="screenshot" finished-at="2021-08-28T03:23:34 PDT" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshot -->
+        <test-method is-config="true" signature="ss()[pri:0, instance:com_testsenarios.Classteemplete@24aed80c]" started-at="2021-08-28T03:23:34 PDT" name="ss" finished-at="2021-08-28T03:23:34 PDT" duration-ms="327" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ss -->
+        <test-method is-config="true" signature="gg()[pri:0, instance:com_testsenarios.Classteemplete@24aed80c]" started-at="2021-08-28T03:23:34 PDT" name="gg" finished-at="2021-08-28T03:23:34 PDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gg -->
+      </class> <!-- com_testsenarios.Classteemplete -->
+      <class name="com_testsenarios.FB_login">
+        <test-method is-config="true" signature="ff()[pri:0, instance:com_testsenarios.FB_login@3a52dba3]" started-at="2021-08-28T03:23:34 PDT" name="ff" finished-at="2021-08-28T03:23:35 PDT" duration-ms="831" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ff -->
+        <test-method signature="login()[pri:0, instance:com_testsenarios.FB_login@3a52dba3]" started-at="2021-08-28T03:23:35 PDT" name="login" finished-at="2021-08-28T03:23:42 PDT" duration-ms="7461" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="cc()[pri:0, instance:com_testsenarios.FB_login@3a52dba3]" started-at="2021-08-28T03:23:42 PDT" name="cc" finished-at="2021-08-28T03:23:43 PDT" duration-ms="276" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cc -->
+      </class> <!-- com_testsenarios.FB_login -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
